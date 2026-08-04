@@ -2,6 +2,10 @@
 
 A repeatable production system for calm, architecturally faithful short-form property visualization.
 
+## Selected client profile
+
+Airbnb is the reference client profile for this planning exercise only. The project has no affiliation with Airbnb and will not use Airbnb-owned assets without explicit written permission. See `docs/CLIENT_PROFILE.md`.
+
 ## Current status
 
 **BLOCKED — SOURCE LICENSE REQUIRES HUMAN VERIFICATION.** No source asset has been supplied in `incoming-assets/`; video production and public rendering cannot begin.
