@@ -1,0 +1,4 @@
+{
+  "hooks": {},
+  "notes": "Enable hooks only after validating the installed Claude Code hook schema."
+}

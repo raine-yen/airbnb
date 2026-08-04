@@ -1,0 +1,36 @@
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+website/.next/
+website/dist/
+
+# Source archives, private assets, render caches, and generated heavy media
+incoming-assets/*
+!incoming-assets/.gitkeep
+source-assets/model/*
+!source-assets/model/.gitkeep
+source-assets/textures/*
+!source-assets/textures/.gitkeep
+blender/working/*
+!blender/working/.gitkeep
+blender/backups/*
+!blender/backups/.gitkeep
+renders/
+exports/vertical/*.mp4
+exports/horizontal/*.mp4
+exports/clean/*.mp4
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.token
+credentials.json
+
+# Local tooling
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,11 @@
+{
+  "name": "atria-house-property-visualization",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "quality": "node scripts/release/release-gate.mjs",
+    "asset:audit": "node scripts/quality/asset-audit.mjs",
+    "release:check": "node scripts/release/release-gate.mjs"
+  }
+}

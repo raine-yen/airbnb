@@ -1,0 +1,4 @@
+{
+  "preview": { "engine": "TBD_AFTER_SCENE_INSPECTION", "resolutionPercentage": 25, "samples": "TBD" },
+  "final": { "engine": "TBD_AFTER_SCENE_INSPECTION", "vertical": [1080, 1920], "horizontal": [1920, 1080], "frameRate": 30 }
+}
