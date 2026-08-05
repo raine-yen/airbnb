@@ -10,6 +10,16 @@ incoming-assets/*
 !incoming-assets/.gitkeep
 properties/*/00-original-images/*
 !properties/*/00-original-images/.gitkeep
+properties/*/01-selected-images/*
+!properties/*/01-selected-images/README.md
+properties/*/03-generated-clips/*
+!properties/*/03-generated-clips/README.md
+properties/*/04-edit/*
+!properties/*/04-edit/README.md
+properties/*/05-review/*
+!properties/*/05-review/README.md
+properties/*/06-final/*
+!properties/*/06-final/README.md
 source-assets/model/*
 !source-assets/model/.gitkeep
 source-assets/textures/*
