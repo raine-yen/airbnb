@@ -4,7 +4,11 @@
 
 **BLOCKED — SOURCE LICENSE REQUIRES HUMAN VERIFICATION**
 
-No source asset or accompanying license information was present at the time of the audit. Commercial use, derivative use, source attribution, and required attribution wording are therefore unknown.
+73 Caldeira Estate listing images have now been supplied locally, but no license or written permission has been provided. The project owner identified them as unlicensed. Commercial use, derivative use, source attribution, and required attribution wording are therefore unknown.
+
+Reference URL: https://www.airbnb.com/rooms/598412107107133278
+
+These images may be organized internally only. They must not be published, used in a portfolio, incorporated into a marketing video, or uploaded to an external generation/editing service until rights are verified.
 
 ## Publication rule
 
