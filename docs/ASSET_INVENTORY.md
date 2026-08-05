@@ -4,7 +4,7 @@ Audit date: 2026-08-04
 
 ## Result
 
-On 2026-08-04, 73 locally supplied listing images were found in `incoming-assets/`: 72 AVIF files and one WebP file. Copies are preserved in `caldeira-estate/00-original-images/`; the incoming originals remain untouched.
+On 2026-08-04, 73 locally supplied listing images were found in `incoming-assets/`: 72 AVIF files and one WebP file. Copies are preserved in `properties/caldeira-estate/00-original-images/`; the incoming originals remain untouched.
 
 The project owner identified the source as an Airbnb listing for Caldeira Estate, Livermore. No license, creator record, or written commercial-use permission was supplied.
 

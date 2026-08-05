@@ -8,8 +8,8 @@ website/dist/
 # Source archives, private assets, render caches, and generated heavy media
 incoming-assets/*
 !incoming-assets/.gitkeep
-caldeira-estate/00-original-images/*
-!caldeira-estate/00-original-images/.gitkeep
+properties/*/00-original-images/*
+!properties/*/00-original-images/.gitkeep
 source-assets/model/*
 !source-assets/model/.gitkeep
 source-assets/textures/*
